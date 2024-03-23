@@ -1,0 +1,15 @@
+{
+  "short_name": "Segment React Example",
+  "name": "Segment React Example",
+  "icons": [
+    {
+      "src": "segmentlogo.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
